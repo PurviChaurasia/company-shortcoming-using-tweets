@@ -14,5 +14,5 @@ This is used by our project to extract those aspects from the tweet having a neg
 
 ![alt text](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10489-020-02095-3/MediaObjects/10489_2020_2095_Fig1_HTML.png)
 
-As we can see, although the overall sentiment of this sentence is neutral there are certain target words with polarities attatched to them. 
+As we can see, although the overall sentiment of this sentence is neutral there are certain target words with polarities attatched to them
 
