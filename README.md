@@ -13,3 +13,6 @@ This model is used in referance with "Back to Reality: Leveraging Pattern-driven
 This is used by our project to extract those aspects from the tweet having a negetive sentiemnt towards the company to better understand the company's weak area.
 
 ![alt text](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10489-020-02095-3/MediaObjects/10489_2020_2095_Fig1_HTML.png)
+
+As we can see, although the overall sentiment of this sentence is neutral there are certain target words with polarities attatched to them. 
+
